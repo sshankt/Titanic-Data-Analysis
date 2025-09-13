@@ -4,7 +4,8 @@ This project analyzes the famous **Titanic dataset** using **Python, Pandas, Mat
 The main objective was to visualize the data and extract meaningful insights about the survival of passengers.  
 
 ---
-![]("https://github.com/sshankt/Titanic-Data-Analysis/blob/main/Titanic2.webp")
+[Titanic Dataset Cover](https://github.com/sshankt/Titanic-Data-Analysis/blob/main/Titanic2.webp)
+
 ## 📌 Dataset Introduction
 The dataset contains details of passengers aboard the Titanic, including whether they survived or not.  
 
